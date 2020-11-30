@@ -130,3 +130,6 @@ dmypy.json
 
 # attributes
 .gitattributes
+
+# image data
+data/extracted
