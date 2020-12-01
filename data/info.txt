@@ -1,1 +1,11 @@
 Data in data/extracted is taken from this Kaggle dataset: https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
+
+An index of all images for this project can be found in image_index.csv in this directory.
+This CSV file contains following:
+
+1. Absolute path to the all images
+2. Data set of the image 
+test:0, train:1, val:2
+
+3. Condition of the lung in image
+NOMRAL: 0 PNEUMONIA: 1
