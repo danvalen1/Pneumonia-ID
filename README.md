@@ -7,6 +7,7 @@
 ## Problem
 
 ## Data
+![image_pixel_distribution]("../../images/image_pix_dist.png")
 
 ## Methodology
 
