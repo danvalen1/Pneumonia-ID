@@ -28,7 +28,7 @@ def preprocess_image_flat(path_list, img_h=120, img_w=120):
     return torch.stack(outlist) # return all tensors in a stacked tensor
 
 
-class linear_prototype3(nn.Module):
+class linear_prototype(nn.Module):
     def __init__(self, img_h, img_w):
         super().__init__()
         #define sizes here
